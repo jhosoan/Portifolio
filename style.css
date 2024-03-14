@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color:#013927;
+}
+
+#inicio{
+    
+   
+    margin: 25px;
+    align-items: center;
+    justify-content: flex-end;
+    display: flex;
+} 
+#elemen label{
+   margin: 25px;
+   color:aliceblue;
+   position: relative;
+   right: 275px;
+   
+}
+#divsobre{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+#incio2{
+    color: aliceblue;
+    margin: 80px;
+    
+    
+}
+#incio2 h1{
+    font-size: 90px;
+}
+
+#incio2 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 7px;
+    
+    
+}
+#linkedin{
+    align-items: center;
+    display: flex;
+    border-radius: 20px;
+    background-color: rgba(21, 97, 72, 0.856);
+    height: 50px;
+    justify-content: center ;
+}
+#linkedin a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: flex;
+}
+#p1{
+    background-color:rgb(255, 255, 255) ;
+    width: 200px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    width: 200px;
+    height:50px;
+    align-items: center;
+    position: absolute;
+    top: 350px;
+    right: 500px;
+
+}
+#p2{
+    background-color:rgb(255, 255, 255) ;
+    width: 200px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    width: 200px;
+    height:50px;
+    align-items: center;
+    position: absolute;
+    top:450px ;
+    right: 90px;  
+}
+
+#contato{   
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;      
+    
+    
+} 
+#contato h2{
+    justify-content: center;
+    display: flex;   
+     
+}
+#i1  {
+    display: flex;   
+    margin: 10px; 
+}
+i {
+    margin: 10px;
+}
+#i1 p{
+    margin: 10px;
+}
+
+
+

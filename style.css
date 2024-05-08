@@ -110,6 +110,13 @@ i {
 #i1 p{
     margin: 10px;
 }
+/*proximo passo */
+main{
+    height: 900px;
+}
 
-
-
+#segunda_tela p{
+    width: 720px;
+    color: aliceblue;
+    font-size: 28px;
+}

@@ -113,10 +113,18 @@ i {
 /*proximo passo */
 main{
     height: 900px;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
 }
-
+#segunda_tela{
+   
+}
 #segunda_tela p{
     width: 720px;
+    height: 500px;    
     color: aliceblue;
     font-size: 28px;
+    background-color: #013927;
 }

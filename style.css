@@ -118,9 +118,7 @@ main{
     flex-direction: row;
     flex-wrap: wrap-reverse;
 }
-#segunda_tela{
-   
-}
+
 #segunda_tela p{
     width: 720px;
     height: 500px;    
